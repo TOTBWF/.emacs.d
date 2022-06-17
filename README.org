@@ -1,0 +1,13 @@
+* My Emacs Configuration
+⚠️ Disclaimer ⚠️
+
+This is my Emacs configuration, which means that I do not promise that
+it will work on your system! It is best used as a starting point, and
+/not/ something to keep in sync with. The intended use is to fork this
+repository, and then let your configuration diverge naturally.
+
+That being said, I do think this is a good starting point for a light-weight
+doomlike configuration that's a little less idiosyncratic, and
+adhere's more to vanilla emacs standards when it comes to elisp.
+* Installation
+Fork this repository (see the disclaimer!), and then clone it into =~/.emacs.d=.
